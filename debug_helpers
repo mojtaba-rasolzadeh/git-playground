@@ -1,0 +1,11 @@
+// Utility functions for debugging and error logging
+
+function logError(message) {
+    console.error(`[ERROR] ${new Date().toISOString()} - ${message}`);
+}
+
+function logInfo(message) {
+    console.log(`[INFO] ${new Date().toISOString()} - ${message}`);
+}
+
+module.exports = { logError, logInfo };
