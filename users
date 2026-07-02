@@ -1,0 +1,9 @@
+{
+  "users": [
+    {"name": "Reza", "role": "Frontend Developer"},
+    {"name": "Ali", "role": "Backend Developer"},
+    {"name": "Mina", "role": "Fullstack Developer"},
+    {"name": "Hossein", "role": "System Admin"},
+    {"name": "Neda", "role": "Database Admin"}
+  ]
+}
