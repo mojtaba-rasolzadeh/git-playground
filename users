@@ -1,0 +1,5 @@
+List of project users:
+- admin (role: superuser)
+- alice (role: developer)
+- bob (role: reviewer)
+- charlie (role: guest)
